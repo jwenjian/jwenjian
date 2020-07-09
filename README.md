@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-This is [Wenjian Jiang] from China, base in Beijing.
+![](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)
+
+This is **Wenjian Jiang** from China, base in Beijing.
 
 <!--
 **jwenjian/jwenjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
