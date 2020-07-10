@@ -11,7 +11,7 @@
 
 This is **Wenjian Jiang** from China, base in Beijing.
 
-- 🔭 I’m currently working on [lucky-you](https://github.com/jwenjian/giki-cli), [giki-cli](https://github.com/jwenjian/giki-cli)
+- 🔭 I’m currently working on [lucky-you](https://github.com/jwenjian/lucky-you), [giki-cli](https://github.com/jwenjian/giki-cli)
 - 🌱 I’m currently learning *kafka*, *css*
 - 😄 Pronouns: A good code is like a story, not a puzzle.
 - 📫 You can find me on 
