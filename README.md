@@ -1,6 +1,8 @@
 ![head.png](https://i.loli.net/2020/07/12/TmAP8n236xqh75Q.png)
 
-This is **Wenjian Jiang** from China, base in Beijing.
+Hi there, thanks for stopping by, this is **Wenjian Jiang** from China, base in Beijing.
+
+I usally build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my pinned projects](#user-25657798-pinned-items-reorder-form), maybe you will love them. 😁
 
 - 🔭 I’m currently working on [lucky-you](https://github.com/jwenjian/lucky-you), [giki-cli](https://github.com/jwenjian/giki-cli)
 - 🌱 I’m currently learning *kafka*, *css*
