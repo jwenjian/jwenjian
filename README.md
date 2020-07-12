@@ -1,21 +1,19 @@
-### Hi there 👋
-
-[![](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)](https://visitor-badge.glitch.me)
-
-<p align="center">
-<img width="70%" src="https://lc-gluttony.s3.amazonaws.com/TFf8iVx2AVxS/5e52532a51cf3a4afd8c/3CC8B88C-CA85-4B46-A1A8-398D78F31BF5.jpeg"/>
-</p>
-<p align="center">
-  <code>Taken in <i>The CangShan mountain, Dali, Yunnan</i></code>
-</p>
+![head.png](https://i.loli.net/2020/07/12/TmAP8n236xqh75Q.png)
 
 This is **Wenjian Jiang** from China, base in Beijing.
 
 - 🔭 I’m currently working on [lucky-you](https://github.com/jwenjian/lucky-you), [giki-cli](https://github.com/jwenjian/giki-cli)
 - 🌱 I’m currently learning *kafka*, *css*
-- 😄 Pronouns: A good code is like a story, not a puzzle.
 - 📫 You can find me on 
   - Codepen: [jwenjian](https://codepen.io/jwenjian)
   - Daily talks: [talk.jwj.life](https://talk.jwj.life)
-  - Blog posts: [yuque](https://yuque.com/jwenjian)
-  
+  - Blog posts: [yuque](https://yuque.com/jwenjian), [dev.to](https://dev.to/jwenjian)
+
+---
+
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian"/>
+</p>
+
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
