@@ -4,7 +4,7 @@ Hi there, thanks for stopping by, this is **Wenjian Jiang** from China, base in 
 
 I usally build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my pinned projects](#user-25657798-pinned-items-reorder-form), maybe you will love them. 😁
 
-- 🔭 I’m currently working on [lucky-you](https://github.com/jwenjian/lucky-you), [giki-cli](https://github.com/jwenjian/giki-cli)
+- 🔭 I’m currently working on PWA apps such as [lucky-you](https://luckyyou.netlify.app), [exif-viewer](https://exifviewer.netlify.app)
 - 🌱 I’m currently learning *kafka*, *css*
 - 📫 You can find me on 
   - Codepen: [jwenjian](https://codepen.io/jwenjian)
