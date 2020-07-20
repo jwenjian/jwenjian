@@ -4,6 +4,8 @@ Hi there, thanks for stopping by, this is **Wenjian Jiang** from China, base in 
 
 I usally build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my pinned projects](#user-25657798-pinned-items-reorder-form), maybe you will love them. 😁
 
+[![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20me%20at)](https://progressiveapp.store/dev/Jwenjian)
+
 - 🔭 I’m currently working on PWA apps such as [lucky-you](https://luckyyou.netlify.app), [exif-viewer](https://exifviewer.netlify.app)
 - 🌱 I’m currently learning *kafka*, *css*
 - 📫 You can find me on 
