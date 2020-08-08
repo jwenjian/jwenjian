@@ -10,7 +10,7 @@ I usally build cool, interesting websites or tools for fun and for learning usin
 - 🌱 I’m currently learning *kafka*, *css*
 - 📫 You can find me on 
   - Codepen: [jwenjian](https://codepen.io/jwenjian)
-  - Daily talks: [talk.jwj.life](https://talk.jwj.life)
+  - Daily talks: [timeline.jwj.life](https://timeline.jwj.life)
   - Blog posts: [yuque](https://yuque.com/jwenjian), [dev.to](https://dev.to/jwenjian)
 
 ---
