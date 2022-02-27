@@ -9,4 +9,4 @@ Highlighted projects:
 
 > In case you use [uTools](https://u.tools), there is also a plugin called [Oh My Ins](https://yuanliao.info/d/4534-oh-my-ins-utools-instagram) for uTools users, enjoy!
 
-I am updating my reading list on [My Papyrus Blog](https://papyrus.so/@happyfire), welcome to subscribe(it's free)
+I am updating my reading list on [My Papyrus Blog](https://papyrus.so/@happyfire), welcome to subscribe(it's free), also updated on [语雀](https://www.yuque.com/jwenjian/reading-list) 
