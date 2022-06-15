@@ -8,4 +8,7 @@ Highlighted projects:
 
 I am updating my reading list on [1Link.Fun](https://1link.fun).
 
-If you are using 即刻，welcome to follow me on `HappyFire`
+> **Note**
+> 
+> If you are using 即刻，welcome to follow me on `HappyFire`
+
