@@ -6,4 +6,4 @@ Highlighted projects:
 
 - [visitor-badge](https://github.com/jwenjian/visitor-badge), a visitor count badge generator service for your Github Markdown files
 
-I am updating my reading list on [1Link.Fun](https://1link.fun).
+I am updating my reading list on [1Link.Fun](https://1link.fun)(zh-CN, 🇨🇳, 中文).
