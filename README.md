@@ -1,6 +1,6 @@
 Hi there, thanks for stopping by, this is **Wenjian Jiang** from China, base in Beijing.
 
-![views since 2023/05/23](https://visitor-badge-deno.deno.dev/jwenjian.jwenjian.json)
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/jwenjian.jwenjian.svg)
 
 Highlighted projects:
 
